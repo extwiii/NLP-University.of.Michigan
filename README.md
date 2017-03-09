@@ -2,7 +2,7 @@
 Introduction to Natural Language Processing by University of Michigan
 
 #### Taught by: 
-#### 
+#### Dragomir R. Radev, Ph.D.
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
