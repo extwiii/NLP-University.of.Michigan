@@ -4,6 +4,13 @@ Introduction to Natural Language Processing by University of Michigan - Coursera
 This course provides an introduction to the field of Natural Language Processing. It includes relevant background material in Linguistics, Mathematics, Probabilities, and Computer Science. Some of the topics covered in the class are Text Similarity, Part of Speech Tagging, Parsing, Semantics, Question Answering, Sentiment Analysis, and Text Summarization.
 
 ## week1 - Introduction 1/2
+* [ [01.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_01.01_DR_Edit.pdf) ]
+* [ [01.02]() ]
+* [ [01.03]() ]
+* [ [01.04]() ]
+* [ [01.05]() ]
+* [ [01.06]() ]
+* [ [01.07]() ]
 
 ## week2 - Introduction 2/2
 
