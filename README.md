@@ -22,13 +22,13 @@ This course provides an introduction to the field of Natural Language Processing
 * [ [02.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_02.07_DR_Edit.pdf) ]
 
 ## week3 - NLP Tasks and Text Similarity
-* [ [03.01]() ]
-* [ [03.02]() ]
-* [ [03.03]() ]
-* [ [03.04]() ]
-* [ [03.05]() ]
-* [ [03.06]() ]
-* [ [03.07]() ]
+* [ [03.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co2_03.01_DR_Edit.pdf) ]
+* [ [03.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co2_03.02_DR_Edit.pdf) ]
+* [ [03.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co2_03.03_DR_Edit.pdf) ]
+* [ [03.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co2_03.04_DR_Edit.pdf) ]
+* [ [03.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_03.05_DR_Edit.pdf) ]
+* [ [03.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_03.06_DR_Edit.pdf) ]
+* [ [03.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_03.07_DR_Edit.pdf) ]
 
 ## week4 - Syntax and Parsing, Part 1
 
