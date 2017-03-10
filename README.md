@@ -14,6 +14,12 @@ This course provides an introduction to the field of Natural Language Processing
 
 ## week2 - Introduction 2/2
 * [ [02.01]() ]
+* [ [02.02]() ]
+* [ [02.03]() ]
+* [ [02.04]() ]
+* [ [02.05]() ]
+* [ [02.06]() ]
+* [ [02.07]() ]
 
 ## week3 - NLP Tasks and Text Similarity
 
