@@ -81,6 +81,12 @@ This course provides an introduction to the field of Natural Language Processing
 [ [09.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.06_DR_Edit.pdf) ]
 
 ## week10 - Collocations and Information Retrieval
+* [ [10.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.01_DR_Edit.pdf) ]
+[ [10.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.02_DR_Edit.pdf) ]
+[ [10.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.03_DR_Edit.pdf) ]
+[ [10.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.04_DR_Edit.pdf) ]
+[ [10.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.05_DR_Edit.pdf) ]
+[ [10.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.06_DR_Edit.pdf) ]
 
 ## week11 - Sentiment Analysis and Semantics
 
