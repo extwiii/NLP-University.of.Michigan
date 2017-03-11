@@ -31,6 +31,11 @@ This course provides an introduction to the field of Natural Language Processing
 [ [03.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co3_03.07_DR_Edit.pdf) ]
 
 ## week4 - Syntax and Parsing, Part 1
+* [ [04.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co4_04.01_DR_Edit.pdf) ]
+[ [04.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_04.02_DR_Edit.pdf) ]
+[ [04.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_04.03_DR_Edit.pdf) ]
+[ [04.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_04.04_DR_Edit.pdf) ]
+[ [04.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_04.05_DR_Edit.pdf) ]
 
 ## week5 - Syntax and Parsing, Part 2
 
