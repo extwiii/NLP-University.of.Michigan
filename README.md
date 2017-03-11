@@ -48,6 +48,13 @@ This course provides an introduction to the field of Natural Language Processing
 [ [05.08](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_05.08_DR_Edit.pdf) ]
 
 ## week6 - Language Modeling
+* [ [06.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.01_DR_Edit.pdf) ]
+[ [06.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.02_DR_Edit.pdf) ]
+[ [06.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.03_DR_Edit.pdf) ]
+[ [06.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.04_DR_Edit.pdf) ]
+[ [06.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.05_DR_Edit.pdf) ]
+[ [06.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_06.06_DR_Edit.pdf) ]
+[ [06.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_06.07_DR_Edit.pdf) ]
 
 ## week7 - Part of Speech Tagging and Information Extraction
 
