@@ -73,6 +73,12 @@ This course provides an introduction to the field of Natural Language Processing
 [ [08.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.05_DR_Edit.pdf) ]
 
 ## week9 - Text Summarization
+* [ [09.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.01_DR_Edit.pdf) ]
+[ [09.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.02_DR_Edit.pdf) ]
+[ [09.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.03_DR_Edit.pdf) ]
+[ [09.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.04_DR_Edit.pdf) ]
+[ [09.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.05_DR_Edit.pdf) ]
+[ [09.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_09.06_DR_Edit.pdf) ]
 
 ## week10 - Collocations and Information Retrieval
 
