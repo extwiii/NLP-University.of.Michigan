@@ -66,6 +66,11 @@ This course provides an introduction to the field of Natural Language Processing
 [ [07.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co6_07.07_DR_Edit.pdf) ]
 
 ## week8 - Question Answering
+* [ [08.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.01_DR_Edit.pdf) ]
+[ [08.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.02_DR_Edit.pdf) ]
+[ [08.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.03_DR_Edit.pdf) ]
+[ [08.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.04_DR_Edit.pdf) ]
+[ [08.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_08.05_DR_Edit.pdf) ]
 
 ## week9 - Text Summarization
 
