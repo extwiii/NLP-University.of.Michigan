@@ -1,4 +1,4 @@
-# NLP-University.of.Michigan
+# NLP-University.of.Michigan :white_check_mark:
 Introduction to Natural Language Processing by University of Michigan - Coursera
 
 This course provides an introduction to the field of Natural Language Processing. It includes relevant background material in Linguistics, Mathematics, Probabilities, and Computer Science. Some of the topics covered in the class are Text Similarity, Part of Speech Tagging, Parsing, Semantics, Question Answering, Sentiment Analysis, and Text Summarization.         
@@ -99,7 +99,14 @@ This course provides an introduction to the field of Natural Language Processing
 [ [11.08](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.08_DR_Edit.pdf) ]
 
 ## week12 - Discourse, Machine Translation, and Generation
-
+* [ [12.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.01_DR_Edit.pdf) ]
+[ [12.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.02_DR_Edit.pdf) ]
+[ [12.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.03_DR_Edit.pdf) ]
+[ [12.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.04_DR_Edit.pdf) ]
+[ [12.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.05_DR_Edit.pdf) ]
+[ [12.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.06_DR_Edit.pdf) ]
+[ [12.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.07_DR_Edit.pdf) ]
+[ [12.08](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co8_12.08_DR_Edit.pdf) ]
 
 #### Taught by: 
 #### Dragomir R.Radev,PhD-College of Engineering, School of Information, School of Literature, Science and the Arts
