@@ -89,6 +89,14 @@ This course provides an introduction to the field of Natural Language Processing
 [ [10.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_10.06_DR_Edit.pdf) ]
 
 ## week11 - Sentiment Analysis and Semantics
+* [ [11.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.01_DR_Edit.pdf) ]
+[ [11.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.02_DR_Edit.pdf) ]
+[ [11.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.03_DR_Edit.pdf) ]
+[ [11.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.04_DR_Edit.pdf) ]
+[ [11.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.05_DR_Edit.pdf) ]
+[ [11.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.06_DR_Edit.pdf) ]
+[ [11.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.07_DR_Edit.pdf) ]
+[ [11.08](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co7_11.08_DR_Edit.pdf) ]
 
 ## week12 - Discourse, Machine Translation, and Generation
 
