@@ -38,6 +38,14 @@ This course provides an introduction to the field of Natural Language Processing
 [ [04.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_04.05_DR_Edit.pdf) ]
 
 ## week5 - Syntax and Parsing, Part 2
+* [ [05.01](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co1_05.01_DR_Edit.pdf) ]
+[ [05.02](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co1_05.02_DR_Edit.pdf) ]
+[ [05.03](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co1_05.03_DR_Edit.pdf) ]
+[ [05.04](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co1_05.04_DR_Edit.pdf) ]
+[ [05.05](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_05.05_DR_Edit.pdf) ]
+[ [05.06](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_05.06_DR_Edit.pdf) ]
+[ [05.07](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_05.07_DR_Edit.pdf) ]
+[ [05.08](http://web.eecs.umich.edu/~radev/coursera-slides/nlpintro_co5_05.08_DR_Edit.pdf) ]
 
 ## week6 - Language Modeling
 
